@@ -1,0 +1,11 @@
+Procedimiento para probar			
+			
+reemplazar owner en unidad por administrador:	G:\folder /setowner administrator /t /c /q > D:\Adm\System\Log\error_set_owner_folder.log 2>&1		
+			
+ejecutar informe	NTFS Permissions Reporter Free Edition	NTFS Permissions Reporter Free Edition	
+datos a exportar	Path / Account Type/ Display Name / SID		
+			
+Ejecutar ParserHTML.jar
+		
+Luego Abrir en Excel usando como separador ;			
+			
