@@ -1,5 +1,11 @@
 package ParserHTML;
 
+/**
+* MAIN 
+* @author jose-javier.culebras@yrnet.com
+* @version 1.0
+* 
+*/
 
 import java.io.File;
 import java.io.IOException;

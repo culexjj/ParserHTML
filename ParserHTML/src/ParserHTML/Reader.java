@@ -3,8 +3,8 @@ package ParserHTML;
 
 /**
  * This class is a  console reader for Integer & String values
- * @author esculebj
- * @version 0.1
+ * @author jose-javier.culebras@yrnet.com
+ * @version 1.0
  * 
  */
 

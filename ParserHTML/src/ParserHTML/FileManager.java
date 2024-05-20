@@ -7,12 +7,11 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.Scanner;
 
 /**
  * This class is manage java.nio.file.Files objects
- * @author esculebj
- * @version 0.1
+ * @author jose-javier.culebras@yrnet.com
+ * @version 1.0
  * @apiNote SE17 required
  * 
  */
